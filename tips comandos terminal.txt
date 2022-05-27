@@ -9,3 +9,16 @@ cat ---> visualizar lo que esta dentro del archivo
 cp + "nombre archivo" + "carpeta_destino" ---> copiar archivo
 mv ---> mover archivo (nombre texto + directorio_destino) 
 git --version ---> ver viersion del git
+
+configurar git (solo 1 vez) 
+git config --global user.name "Fernando Escanilla"
+git config --global user.email fiescanilla@hotmail.com
+git init --->creas el repositorio
+
+git add .   ---> para agregar cambios al area de prepacion
+git status ---> ver que esta pendiente
+git commit -m "mensaje del commit" ---> paso despues del tracker
+git log ---> ver que he hecho
+git push --->enviar 
+git remote -v ---> mostrar en vinculado
+git push origin master
