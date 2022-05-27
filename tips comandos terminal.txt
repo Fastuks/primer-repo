@@ -1,0 +1,11 @@
+clear ---> limpiar pantalla 
+pwd ----> donde estoy?
+cd ---> cambiar directorio  --> .. ir directorio atras
+ls ---> listar archivos del directorio donde estoy
+mddir "ejemplo_nombre" ---> crear carpeta
+touch ---> crear archivo ej: texto.txt
+nano + "nombre txt" ---> abre editor de texto en terminal --- texto.txt
+cat ---> visualizar lo que esta dentro del archivo
+cp + "nombre archivo" + "carpeta_destino" ---> copiar archivo
+mv ---> mover archivo (nombre texto + directorio_destino) 
+git --version ---> ver viersion del git
