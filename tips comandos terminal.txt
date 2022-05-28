@@ -22,3 +22,10 @@ git log ---> ver que he hecho
 git push --->enviar 
 git remote -v ---> mostrar en vinculado
 git push origin master
+git stash list --->listar los stash
+git reset --soft HEAD~1 ---> resetear un commit
+git reset <nombre_archivo> --->para sacar del area de prepacion
+git restore <nombre_archivo>  ---> para revertir todos los cambios del commit
+
+
+
